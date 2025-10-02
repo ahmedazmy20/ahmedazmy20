@@ -68,11 +68,11 @@
 
 ###
 
-<div align="center">
+<!-- <div align="center">
   <img height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTNpMmU4d2IzczRqNDlhNDZsaGUwdHNyazlqOWFoejU4emN4NXF4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.gif"  />
 </div>
 
-###
+### -->
 
 <div align="center">
   <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDA0ZG05bGR2dGI4Nmdjd2kyM2UwZzc5emlwdmxoMDNscHF6ODl1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.gif"  />
