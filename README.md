@@ -40,11 +40,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" height="30" alt="vuetify logo"  />
 </div>
 
-###
-
-<div align="center">
-  <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW55azllajAzMWh5bjZycWplb3Nsd3VjYTduNm9sN2xqcGhwdW42NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9LATKVrWXmlIKovXkE/giphy.gif"  />
-</div>
 
 ###
 
